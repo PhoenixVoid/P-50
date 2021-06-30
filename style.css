@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://www.publicdomainpictures.net/pictures/30000/velka/solid-orange-background.jpg");
+    background-size: cover;
+}
+
+p, h3{
+    color: blanchedalmond;
+}
+
+img{
+    border: sienna;
+    border-width: 20px;
+    border-style:solid;
+}
+
+.head{
+    background-color: lime ;
+    color: black;
+}
+
+.bodyimg{
+    display:flex;
+    flex-direction: column-reverse;
+}
